@@ -13,7 +13,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 
 1. **.NET Core (now unified in .NET 5+)**:
 
-   * Cross-platform framework for Windows, macOS, and Linux.
+   * Cross-platform Framework for Windows, macOS, and Linux.
    * Modern, modular, and high-performance.
 
 1. **ASP.NET Core**:
@@ -25,7 +25,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
    * For developing web applications using C# instead of JavaScript.
    * Includes Blazor Server and Blazor WebAssembly.
 1. **Entity Framework Core**:
-   * ORM for working with relational databases (SQL Server, PostgreSQL, MySQL, etc.).
+   * [ORM](https://github.com/CristianSifuentes/EFCore) for working with relational databases (SQL Server, PostgreSQL, MySQL, etc.).
 1. **Xamarin / .NET MAUI**:
    * For cross-platform mobile and desktop application development.
 
@@ -48,7 +48,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 
 1. **.NET Standard Library**:
    
-   * The foundation of shared libraries for the entire .NET platform.
+   * The foundation of shared [libraries](https://github.com/CristianSifuentes/NETStandard) for the entire .NET platform.
 
 1. **NuGet**:
 
@@ -64,7 +64,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 1. **Visual Studio Code**:
    * A lightweight editor with extensions for .NET Core and ASP.NET.
 1. **.NET CLI (dotnet)**:
-   * Command-line tool for creating, building, and managing .NET projects.
+   * [Command-line](https://github.com/CristianSifuentes/dotnet) tool for creating, building, and managing .NET projects.
 1. **NuGet Package Manager**:
    * Integrated into Visual Studio and CLI for dependency management.
 1. **Azure DevOps**:
