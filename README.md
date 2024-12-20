@@ -59,10 +59,10 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 
 
 1. **Visual Studio**:
-   * A comprehensive IDE for .NET development.
+   * A comprehensive [IDE](https://github.com/CristianSifuentes/VStudio) for .NET development.
    * Offers features like debugging, visual design, unit testing, and more.
 1. **Visual Studio Code**:
-   * A lightweight editor with extensions for .NET Core and ASP.NET.
+   * A lightweight [editor](https://github.com/CristianSifuentes/VStudioCode) with extensions for .NET Core and ASP.NET.
 1. **.NET CLI (dotnet)**:
    * [Command-line](https://github.com/CristianSifuentes/dotnet) tool for creating, building, and managing .NET projects.
 1. **NuGet Package Manager**:
