@@ -66,9 +66,9 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 1. **.NET CLI (dotnet)**:
    * [Command-line](https://github.com/CristianSifuentes/dotnet) tool for creating, building, and managing .NET projects.
 1. **NuGet Package Manager**:
-   * Integrated into Visual Studio and CLI for dependency management.
+   * Integrated into Visual Studio and [CLI](https://github.com/CristianSifuentes/NuGetPM) for dependency management.
 1. **Azure DevOps**:
-   * For continuous integration and delivery (CI/CD) and project management.
+   * For continuous [integration](https://github.com/CristianSifuentes/AzureDevOps) and delivery (CI/CD) and project management.
 
 ## 3. Databases and Connectivity
 
