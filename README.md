@@ -82,7 +82,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 ## 4. Cloud and DevOps
 
 1. **Microsoft Azure**:
-   *  [Cloud platform](https://github.com/CristianSifuentes/Azure) for hosting applications, databases, and more.
+   * [Cloud platform](https://github.com/CristianSifuentes/Azure) for hosting applications, databases, and more.
 1. **Azure DevOps**:
    * For managing projects and CI/CD pipelines.
 1. **GitHub Actions**:
