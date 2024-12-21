@@ -33,9 +33,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 ### Programming Languages
 
 1. **C#**:
-   
    * The primary language in the .NET ecosystem. [C#](https://github.com/CristianSifuentes/C-sharp)
-
 
 1. **VB.NET**:
    *  Used in legacy applications.
@@ -84,11 +82,11 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 ## 4. Cloud and DevOps
 
 1. **Microsoft Azure**:
-   * Cloud platform for hosting applications, databases, and more.
+   *  [Cloud platform](https://github.com/CristianSifuentes/Azure) for hosting applications, databases, and more.
 1. **Azure DevOps**:
    * For managing projects and CI/CD pipelines.
 1. **GitHub Actions**:
-   * Deployment automation for .NET projects.
+   * Deployment [automation](https://github.com/CristianSifuentes/NETGitHubActions) for .NET projects.
 
 
 ## 5. Testing and Code Quality
