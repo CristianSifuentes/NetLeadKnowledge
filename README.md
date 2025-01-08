@@ -27,7 +27,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 1. **Entity Framework Core**:
    * [ORM](https://github.com/CristianSifuentes/EFCore) for working with relational databases (SQL Server, PostgreSQL, MySQL, etc.).
 1. **Xamarin / .NET MAUI**:
-   * For cross-platform mobile and desktop application development.
+   * For cross-platform [mobile](https://github.com/CristianSifuentes/Xamarin-MAUI) and desktop application development.
 
 
 ### Programming Languages
@@ -36,10 +36,10 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
    * The primary language in the .NET ecosystem. [C#](https://github.com/CristianSifuentes/C-sharp)
 
 1. **VB.NET**:
-   *  Used in legacy applications.
+   *  Used in [legacy](https://github.com/CristianSifuentes/Vbnet) applications.
 
 1. **F#**:
-   * Functional language within the .NET ecosystem.
+   * [Functional](https://github.com/CristianSifuentes/Fsharp) language within the .NET ecosystem.
 
 
 ### Standard Libraries
