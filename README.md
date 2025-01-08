@@ -84,7 +84,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 1. **Microsoft Azure**:
    * [Cloud platform](https://github.com/CristianSifuentes/Azure) for hosting applications, databases, and more.
 1. **Azure DevOps**:
-   * For managing projects and CI/CD pipelines.
+   * For managing projects and [CI/CD](https://github.com/CristianSifuentes/Serilog-NLog) pipelines.
 1. **GitHub Actions**:
    * Deployment [automation](https://github.com/CristianSifuentes/NETGitHubActions) for .NET projects.
 
@@ -121,7 +121,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 1. **MassTransit / NServiceBus**:
    * For message-driven architectures and microservices.
 1. **Serilog / NLog**:
-   * For advanced logging.
+   * For advanced [logging](https://github.com/CristianSifuentes/Serilog-NLog).
 
 
 
