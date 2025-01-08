@@ -8,21 +8,21 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 
 1. **.NET Framework**: 
    
-   * For traditional Windows applications.
+   * For [traditional](https://github.com/CristianSifuentes/Traditional-) Windows applications.
    * Supports technologies like Windows Forms, WPF, ASP.NET Web Forms, and WCF.
 
 1. **.NET Core (now unified in .NET 5+)**:
 
-   * Cross-platform Framework for Windows, macOS, and Linux.
+   * [Cross-platform](https://github.com/CristianSifuentes/DotnetCore) Framework for Windows, macOS, and Linux.
    * Modern, modular, and high-performance.
 
 1. **ASP.NET Core**:
 
-   * Framework for modern web applications and APIs.
+   * Framework for [modern](https://github.com/CristianSifuentes/AspnetCore) web applications and APIs.
    * Supports MVC applications, Razor Pages, and Blazor.
 
 1. **Blazor**:
-   * For developing web applications using C# instead of JavaScript.
+   * For developing [web](https://github.com/CristianSifuentes/Blazor) applications using C# instead of JavaScript.
    * Includes Blazor Server and Blazor WebAssembly.
 1. **Entity Framework Core**:
    * [ORM](https://github.com/CristianSifuentes/EFCore) for working with relational databases (SQL Server, PostgreSQL, MySQL, etc.).
