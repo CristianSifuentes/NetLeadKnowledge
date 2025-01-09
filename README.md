@@ -45,12 +45,10 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 ### Standard Libraries
 
 1. **.NET Standard Library**:
-   
    * The foundation of shared [libraries](https://github.com/CristianSifuentes/NETStandard) for the entire .NET platform.
 
 1. **NuGet**:
-
-   * Package manager for third-party libraries and extensions.
+   * [Package manager](https://github.com/CristianSifuentes/NuGetPM) for third-party libraries and extensions.
 
 
 ## 2. Development Tools
@@ -71,13 +69,13 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 ## 3. Databases and Connectivity
 
 1. **Entity Framework Core**:
-   * For working with relational databases.
+   * For working with [relational databases](https://github.com/CristianSifuentes/EFCore).
 1. **ADO.NET**:
-   * API for direct data access.
+   * API for [direct](https://github.com/CristianSifuentes/AdoNet) data access.
 1. **Dapper**:
-   * Lightweight ORM for quick and efficient queries.
+   * [Lightweight](https://github.com/CristianSifuentes/Dapper) ORM for quick and efficient queries.
 1. **Supported Databases**:
-   * SQL Server, PostgreSQL, MySQL, SQLite, Cosmos DB.
+   * SQL Server, PostgreSQL, MySQL, SQLite, Cosmos DB[.](https://github.com/CristianSifuentes/SupportedDatabases-)
 
 ## 4. Cloud and DevOps
 
@@ -88,38 +86,37 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 1. **GitHub Actions**:
    * Deployment [automation](https://github.com/CristianSifuentes/NETGitHubActions) for .NET projects.
 
-
 ## 5. Testing and Code Quality
 
 1. **xUnit, NUnit, MSTest**:
-   * Frameworks for unit testing.
+   * Frameworks for unit [testing](https://github.com/CristianSifuentes/UnitTestingFrameworks).
 1. **SonarQube**:
-   * Static code analysis.
+   * Static code [analysis](https://github.com/CristianSifuentes/Sonarqube-).
 1. **ReSharper**:
-   * Extension for Visual Studio to improve productivity and code quality.
+   * [Extension](https://github.com/CristianSifuentes/Resharper) for Visual Studio to improve productivity and code quality.
 
 ## 6. Security
 
 1. **Identity Server**:
-   * Identity and authentication management for .NET applications.
+   * [Identity](https://github.com/CristianSifuentes/IdentityServer) and authentication management for .NET applications.
 1. **ASP.NET Identity**:
-   * System for managing users and roles.
+   * [System](https://github.com/CristianSifuentes/AspnetIdentity) for managing users and roles.
 1. **OWASP Middleware**:
-   * Protections against common threats (XSS, CSRF).
+   * [Protections](https://github.com/CristianSifuentes/OwaspMiddleware) against common threats (XSS, CSRF).
 
 ## 7. Other Key Components
 
 1. **SignalR**:
-   * Library for real-time communication (WebSockets).
+   * [SignalR](https://github.com/CristianSifuentes/SignalR) for real-time communication (WebSockets).
 1. **Hangfire**:
-   * For managing background tasks.
+   * For [managing](https://github.com/CristianSifuentes/Hangfire) background tasks.
 1. **Swagger (OpenAPI)**:
-   * Documentation and testing for APIs.
+   * [Documentation](https://github.com/CristianSifuentes/Swagger) and testing for APIs.
 
 ## 8. Complementary Frameworks
 
 1. **MassTransit / NServiceBus**:
-   * For message-driven architectures and microservices.
+   * For [message-driven ](https://github.com/CristianSifuentes/Masstransit-Nservicebus) architectures and microservices.
 1. **Serilog / NLog**:
    * For advanced [logging](https://github.com/CristianSifuentes/Serilog-NLog).
 
