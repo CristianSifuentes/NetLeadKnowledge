@@ -1,6 +1,22 @@
 # NetLeadKnowledge
 
-Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools and components for the development of modern applications, both frontend and backend. Here is a summary of the main components and tools of .NET
+Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools and components for the development of modern applications, both frontend and backend. Here is a summary of the main components and tools of .NET.
+
+## 📑 Table of Contents
+- [1. Main Components of .NET](#1-main-components-of-net)
+  - [Frameworks](#frameworks)
+  - [Programming Languages](#programming-languages)
+  - [Standard Libraries](#standard-libraries)
+- [2. Development Tools](#2-development-tools)
+- [3. Databases and Connectivity](#3-databases-and-connectivity)
+- [4. Cloud and DevOps](#4-cloud-and-devops)
+- [5. Testing and Code Quality](#5-testing-and-code-quality)
+- [6. Security](#6-security)
+- [7. Other Key Components](#7-other-key-components)
+- [8. Complementary Frameworks](#8-complementary-frameworks)
+- [9. Microsoft Development Tools & Frameworks Timeline](https://github.com/CristianSifuentes/Techrosoft-Timeline)
+
+---
 
 ## 1. Main Components of .NET
 
@@ -119,6 +135,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
    * For [message-driven ](https://github.com/CristianSifuentes/Masstransit-Nservicebus) architectures and microservices.
 1. **Serilog / NLog**:
    * For advanced [logging](https://github.com/CristianSifuentes/Serilog-NLog).
+
 
 
 
