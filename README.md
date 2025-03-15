@@ -14,6 +14,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
 - [6. Security](#6-security)
 - [7. Other Key Components](#7-other-key-components)
 - [8. Complementary Frameworks](#8-complementary-frameworks)
+- [9. Microsoft Development Tools & Frameworks Timeline](https://github.com/CristianSifuentes/Techrosoft-Timeline)
 
 ---
 
@@ -134,6 +135,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
    * For [message-driven ](https://github.com/CristianSifuentes/Masstransit-Nservicebus) architectures and microservices.
 1. **Serilog / NLog**:
    * For advanced [logging](https://github.com/CristianSifuentes/Serilog-NLog).
+
 
 
 
