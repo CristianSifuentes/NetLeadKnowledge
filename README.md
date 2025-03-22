@@ -27,7 +27,7 @@ Microsoft's .NET technology is a broad ecosystem that includes frameworks, tools
    * For [traditional](https://github.com/CristianSifuentes/Traditional-) Windows applications.
    * Supports technologies like Windows Forms, WPF, ASP.NET Web Forms, and WCF.
 
-1. **.NET Core (now unified in .NET 5+)**:
+1. **.NET Core (now unified in [.NET 5+](https://github.com/CristianSifuentes/greater_than_or_equal_to.NET5))**:
 
    * [Cross-platform](https://github.com/CristianSifuentes/DotnetCore) Framework for Windows, macOS, and Linux.
    * Modern, modular, and high-performance.
